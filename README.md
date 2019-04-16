@@ -3,10 +3,11 @@
 ## Task description is as follows:
 
 1. Prepare predictive model(s) of default. Default client is defined as one with loan_status variable taking on the following levels:
-..*Charged off
-..*Default
-..*Does not meet the credit policy. Status: Charged Off
-..*Late (31-120 days)
+
+* Charged off
+* Default
+* Does not meet the credit policy. Status: Charged Off
+* Late (31-120 days)
  
 2. Present a few competing predictive models and select one of them. Explain criteria for the selection.          
 
