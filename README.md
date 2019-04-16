@@ -1,6 +1,6 @@
-This project is devoted to solving a task based on Kaggle data(https://www.kaggle.com/wendykan/lending-club-loan-data/data#loan.csv). Overview of my solution can be found in Summary notebook.
+## This project is devoted to solving a task based on Kaggle data(https://www.kaggle.com/wendykan/lending-club-loan-data/data#loan.csv). Overview of my solution can be found in Summary notebook.
 
-Task description is as follows:
+## Task description is as follows:
 
 1. Prepare predictive model(s) of default. Default client is defined as one with loan_status variable taking on the following levels:
 ..*Charged off
