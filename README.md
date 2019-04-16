@@ -1,4 +1,4 @@
-## This project is devoted to solving a task based on Kaggle data(https://www.kaggle.com/wendykan/lending-club-loan-data/data#loan.csv). Overview of my solution can be found in Summary notebook.
+## This repo is devoted to solving a task based on Kaggle data(https://www.kaggle.com/wendykan/lending-club-loan-data/data#loan.csv). Overview of my solution can be found in Summary notebook.
 
 ## Task description is as follows:
 
